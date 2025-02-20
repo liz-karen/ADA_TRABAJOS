@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "nombre": "Aniversario",
+      "fecha": "06-01-2025",
+      "lugar": "Ensenada"
+    },
+    {
+      "id": 3,
+      "nombre": "Cumpleanios mom",
+      "fecha": "22-05-2025",
+      "lugar": "Santa Clara"
+    },
+    {
+      "id": 4,
+      "nombre": "Viaje",
+      "fecha": "12-07-2026",
+      "lugar": "Cuba"
+    }
+  ]

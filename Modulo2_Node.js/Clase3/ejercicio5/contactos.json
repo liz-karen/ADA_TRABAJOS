@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "nombre": "Mama",
+      "telefono": "6636789545",
+      "correo": "mom@gmail.com"
+    },
+    {
+      "id": 3,
+      "nombre": "Papa",
+      "telefono": "6645195461",
+      "correo": "dad@gmail.com"
+    }
+  ]

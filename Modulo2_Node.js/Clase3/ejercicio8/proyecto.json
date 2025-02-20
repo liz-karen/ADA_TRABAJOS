@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "nombre": "Fragancias",
+      "estado": "en progreso"
+    },
+    {
+      "id": 2,
+      "nombre": "Cantidad",
+      "estado": "en progreso"
+    },
+    {
+      "id": 3,
+      "nombre": "Agregar logotipo",
+      "estado": "en progreso"
+    }
+  ]

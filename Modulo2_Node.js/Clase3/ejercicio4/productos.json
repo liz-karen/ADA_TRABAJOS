@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "nombre": "Crema hidratante",
+      "cantidadDisponible": 8
+    },
+    {
+      "id": 2,
+      "nombre": "Jabon",
+      "cantidadDisponible": 10
+    }
+  ]

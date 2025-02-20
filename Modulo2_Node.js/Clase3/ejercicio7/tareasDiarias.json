@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "descripcion": "Empezar a ir al gym",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 2,
+      "descripcion": "Terminar la tesis",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 3,
+      "descripcion": "Estudiar ingles",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 4,
+      "descripcion": "Ver la nueva peli Flow",
+      "estado": "Completada"
+    }
+  ]
